@@ -1,0 +1,1 @@
+worker: python zeke_liq_bot.py
